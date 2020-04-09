@@ -24,7 +24,7 @@ body {
   font-size: 1.3em;
 }
 
-.questionBox {
+.globeBox {
   display: flex;
   flex-direction: column;
   align-items: center;

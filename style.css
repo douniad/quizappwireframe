@@ -84,7 +84,7 @@ h1{
 
 @media only screen and (min-width: 320px) {
 
-  .questionBox {
+  .globeBox {
     width: 90%;
     height: 31em;
     margin-top: 1em;
@@ -124,7 +124,7 @@ h1{
 }
 
 @media only screen and (min-width: 550px) {
-  .questionBox {
+  .globeBox {
     width: 29.5em;
     height: 31.5em;
     padding-top: 2.6em;
@@ -158,7 +158,7 @@ h1{
     font-size: 1.3em;
   }
 
-  .questionBox {
+  .globeBox {
     width: 35em;
     height: 38em;
   }
